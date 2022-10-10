@@ -1,5 +1,5 @@
 ### Overview
-This project was completed as a use case for the (LexicalRichness)[https://github.com/LSYS/LexicalRichness] tool. This project takes seven books listed below in `figure 1` and compares some lexicographical properties between the English and German versions of the text.
+This project was completed as a use case for the [LexicalRichness](https://github.com/LSYS/LexicalRichness) tool. This project takes seven books listed below in `figure 1` and compares some lexicographical properties between the English and German versions of the text.
 
 | Book Title                        | Author                 | 
 | :---                              |    :----:              | 
@@ -14,3 +14,12 @@ This project was completed as a use case for the (LexicalRichness)[https://githu
 Figure 1: Books Used In Study
 
 ### Study
+
+
+![image](figures\maas diversity.png)
+
+![image](figures\moving avg.png)
+
+![image](figures\terms.png)
+
+![image](figures\words.png)
