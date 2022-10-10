@@ -10,6 +10,7 @@ This project was completed as a use case for the (LexicalRichness)[https://githu
 | Oliver Twist                      | Charles Dickens        |
 | Peter Pan                         | James Barrie           |
 | Treasure Island                   | Robert Louis Stevenson |
+
 **Figure 1:** Books Used In Study
 
 ### Study
