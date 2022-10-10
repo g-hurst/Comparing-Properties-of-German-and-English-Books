@@ -16,10 +16,10 @@ Figure 1: Books Used In Study
 ### Study
 
 
-![image](https://github.com/g-hurst/Comparing-Properties-of-German-and-English-Books/blob/main/figures/maas%20diversity.png)
+![maas diversity](https://github.com/g-hurst/Comparing-Properties-of-German-and-English-Books/blob/main/figures/maas%20diversity.png)
 
-![image](figures\moving avg.png)
+![moving avg](https://github.com/g-hurst/Comparing-Properties-of-German-and-English-Books/blob/main/figures/moving%20avg.png)
 
-![image](figures\terms.png)
+![terms](https://github.com/g-hurst/Comparing-Properties-of-German-and-English-Books/blob/main/figures/terms.png)
 
-![image](figures\words.png)
+![words](https://github.com/g-hurst/Comparing-Properties-of-German-and-English-Books/blob/main/figures/words.png)
