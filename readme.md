@@ -5,10 +5,11 @@ This project was completed as a use case for the (LexicalRichness)[https://githu
 | :---                              |    :----:              | 
 | A Christmas Carol                 | Charles Dickens        | 
 | Alices Adventures in Wonderland   | Lewis Carroll          | 
-| Macbeth                           | Shakespeare          |
-| Romeo and Juliet                  | Shakespeare          |
-| Oliver Twist                      | Charles Dickens          |
-| Peter Pan                         | James Barrie          |
-| Treasure Island                   | Robert Louis Stevenson          |
+| Macbeth                           | Shakespeare            |
+| Romeo and Juliet                  | Shakespeare            |
+| Oliver Twist                      | Charles Dickens        |
+| Peter Pan                         | James Barrie           |
+| Treasure Island                   | Robert Louis Stevenson |
+**Figure 1:** Books Used In Study
 
 ### Study
