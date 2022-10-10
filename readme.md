@@ -16,7 +16,7 @@ Figure 1: Books Used In Study
 ### Study
 
 
-![image](figures\maas diversity.png)
+![image](https://github.com/g-hurst/Comparing-Properties-of-German-and-English-Books/blob/main/figures/maas%20diversity.png)
 
 ![image](figures\moving avg.png)
 
