@@ -11,6 +11,6 @@ This project was completed as a use case for the (LexicalRichness)[https://githu
 | Peter Pan                         | James Barrie           |
 | Treasure Island                   | Robert Louis Stevenson |
 
-**Figure 1:** Books Used In Study
+Figure 1: Books Used In Study
 
 ### Study
