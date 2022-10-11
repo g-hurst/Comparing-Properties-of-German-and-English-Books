@@ -19,7 +19,10 @@ This exploration was done to calculate and compare some of the lexicographical p
 
 ### 2.1 Measurement of Words and Terms
 
-The first property of the books explored was the length of the text. This was quantified by getting the total number of words in each book. In addition to this, the number of unique terms in each book was also calculated. The number of words in each book was plotted in Figure 2.1, and the number of terms in each book was plotted in Figure 2.2. 
+The first property of the books explored was the length of the text. This was quantified by getting the total number of words in each book. In addition to this, the number of unique terms in each book was also calculated. The number of words in each book was plotted in Figure 2.1, and the number of terms in each book was plotted in Figure 2.2. In addition to this, the number of words vs number of unique terms for each book was plotted in Figure 2.3. <br>\
+
+Looking at Figure 2.1 and 2.2, it can be seen that the English version of the books have more words on average, but the German translations have more unique terms. Figure 2.3 shows that the number of unique terms tends to increase with the word count in each book, and the number of unique terms in the German translations increases more rapidly than their English originals. 
+
 
 <p align=center>
     <img alt="words" src="https://github.com/g-hurst/Comparing-Properties-of-German-and-English-Books/blob/main/figures/words.png">
