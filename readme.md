@@ -20,7 +20,7 @@ This exploration was done to calculate and compare some of the lexicographical p
 ### 2.1 Measurement of Words and Terms
 
 The first property of the books explored was the length of the text. This was quantified by getting the total number of words in each book. In addition to this, the number of unique terms in each book was also calculated. The number of words in each book was plotted in Figure 2.1, and the number of terms in each book was plotted in Figure 2.2. 
- 
+
 <p align=center>
     <img alt="words" src="https://github.com/g-hurst/Comparing-Properties-of-German-and-English-Books/blob/main/figures/words.png">
     <br>
@@ -32,6 +32,14 @@ The first property of the books explored was the length of the text. This was qu
     <br>
     <em>Figure 2.2: Bar chart of terms in each book</em>
 </p>
+
+<p align=center>
+    <img alt="terms" src="https://github.com/g-hurst/Comparing-Properties-of-German-and-English-Books/blob/main/figures/words%20vs%20terms%20scatter.png">
+    <br>
+    <em>Figure 2.3: Scatter plot of the words vs terms in each book</em>
+</p>
+
+
 
 ![maas diversity](https://github.com/g-hurst/Comparing-Properties-of-German-and-English-Books/blob/main/figures/maas%20diversity.png)
 
