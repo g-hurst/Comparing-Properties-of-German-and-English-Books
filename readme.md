@@ -1,4 +1,4 @@
-### Overview
+## 1 Overview
 This project was completed as a use case for the [LexicalRichness](https://github.com/LSYS/LexicalRichness) tool. This project takes seven books listed below in `figure 1` and compares some lexicographical properties between the English and German versions of the text.
 
 | Book Title                        | Author                 | 
@@ -13,15 +13,18 @@ This project was completed as a use case for the [LexicalRichness](https://githu
 
 Figure 1: Books Used In Study
 
-### Study
+## 2 Study
 
 This exploration was done to calculate and compare some of the lexicographical properties of text once it has been translated from English to German. Seven unique books were analyzed. <b>The results of this exploration describe the few books that were analyzed, but since the sample size is so small, this can NOT be used to generalize translation of any book from English to German.</b>
 
-#### Measurement of Words and Terms
+### 2.1 Measurement of Words and Terms
 
 Before quantifying the lexical diversity in each book, the length of each book was plotted. 
-
-![words](https://github.com/g-hurst/Comparing-Properties-of-German-and-English-Books/blob/main/figures/words.png)
+<p align=center>
+    <img alt="wprds" src="https://github.com/g-hurst/Comparing-Properties-of-German-and-English-Books/blob/main/figures/words.png">
+    <br>
+    <em>Figure 2.1: Bar chart of words in each book</em>
+</p>
 
 ![terms](https://github.com/g-hurst/Comparing-Properties-of-German-and-English-Books/blob/main/figures/terms.png)
 
