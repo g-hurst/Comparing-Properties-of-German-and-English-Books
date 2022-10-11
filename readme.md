@@ -19,14 +19,19 @@ This exploration was done to calculate and compare some of the lexicographical p
 
 ### 2.1 Measurement of Words and Terms
 
-Before quantifying the lexical diversity in each book, the length of each book was plotted. 
+The first property of the books explored was the length of the text. This was quantified by getting the total number of words in each book. In addition to this, the number of unique terms in each book was also calculated. The number of words in each book was plotted in Figure 2.1, and the number of terms in each book was plotted in Figure 2.2. 
+ 
 <p align=center>
-    <img alt="wprds" src="https://github.com/g-hurst/Comparing-Properties-of-German-and-English-Books/blob/main/figures/words.png">
+    <img alt="words" src="https://github.com/g-hurst/Comparing-Properties-of-German-and-English-Books/blob/main/figures/words.png">
     <br>
     <em>Figure 2.1: Bar chart of words in each book</em>
 </p>
 
-![terms](https://github.com/g-hurst/Comparing-Properties-of-German-and-English-Books/blob/main/figures/terms.png)
+<p align=center>
+    <img alt="terms" src="https://github.com/g-hurst/Comparing-Properties-of-German-and-English-Books/blob/main/figures/terms.png">
+    <br>
+    <em>Figure 2.2: Bar chart of terms in each book</em>
+</p>
 
 ![maas diversity](https://github.com/g-hurst/Comparing-Properties-of-German-and-English-Books/blob/main/figures/maas%20diversity.png)
 
