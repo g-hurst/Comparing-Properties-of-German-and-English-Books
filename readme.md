@@ -59,4 +59,9 @@ Figure 2.4 shows Maas’s diversity of each notebook, and it can be observed tha
     <em>Figure 2.5: Bar chart of sliding ttr average in each book</em>
 </p>
 
-## 3 Conclusions
+## 3 Discussion
+<b> Note: Since the sample size for this project was so small, these conclusions are likely unique to this set of books and may not be able to generalize all English to German translation. </b> <br>
+
+One unique aspect found in this study was how while English books had higher overall word counts, the German translation had an higher unique terms. This could indicate that the English to German translation is not always one to one. Maybe a single sentence in English can be translated in multiple sentences in German, and the best translation in German is picked based on the context. With a bit of knowledge about the German language, compound words may also factor into this odd relationship. <br>
+
+The difference in words and terms holds true when the sliding average was taken for each book. Thus, if the reader were to pick one of these translated books, it would be more likely that they would open up to a more lexically diverse section of text. However, the total diversity of the entire text (measured by Maas’s metric) was higher in every English text. This indicates that small segments of the German translations are more lexically diverse, but the overall diversity of the English books is higher. 
